@@ -1,3 +1,4 @@
 # student_data_system
-simple system to write and edit information about students
-you need to compile the file for getting working program
+Simple system to write and edit information about students.
+You need to compile the file for getting working program
+P.S. This program is not an original one and created only for studying purposes
